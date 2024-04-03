@@ -1,0 +1,46 @@
+$brand-color : #fe86d4;
+$head-color : #7b6cd5;
+
+
+.inside_container {
+    max-width: 940px;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.service_section {
+    margin: 40px 0;
+
+    .service_detail_top {
+        h2 {
+            color: $head-color;
+        }
+    }
+
+    .service_detail {
+        margin-top: 40px;
+        width: 100%;
+
+        i {
+            font-size: 50px;
+            color: $brand-color;
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: black;
+            font-size: 22px;
+            font-weight: 700
+            
+        }
+        p{
+            margin-top: 20px;
+
+        }
+        a:hover{
+            color: $brand-color;
+        }
+    }
+}

@@ -1,0 +1,25 @@
+.center_section {
+  background-color: #f5f5f5;
+}
+.center_section .inside_center {
+  height: auto;
+}
+.center_section .inside_center .center-left {
+  position: relative;
+  left: 25%;
+  width: 80%;
+  top: 13%;
+}
+.center_section .inside_center .center-left h2 {
+  color: #7b6cd5;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.center_section .inside_center .center-left p {
+  width: 80%;
+}
+.center_section .inside_center .center-right img {
+  width: 100%;
+  -o-object-fit: none;
+     object-fit: none;
+}/*# sourceMappingURL=Yogacenter.css.map */
