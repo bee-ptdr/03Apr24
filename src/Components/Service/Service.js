@@ -14,19 +14,19 @@ function Service() {
                     </div>
                     <div className="row service_detail mt-5">
                         <div className="col-md-4 px-4">
-                            <i class="fa-solid fa-fan"></i><br />
+                            <i className="fa-solid fa-fan"></i><br />
                             <a href="#">Choose the class</a>
                             <p>It va esser tam simplic quam Occidental in fact, it va esser Occidental.</p>
                         </div>
                         <div className="col-md-4 px-4">
-                            <i class="fa-solid fa-dumbbell"></i><br />
+                            <i className="fa-solid fa-dumbbell"></i><br />
                             <a href="#">Work Routines</a>
                             <p>It va esser tam simplic quam Occidental in fact, it va esser Occidental.</p>
                         </div>
                         <div className="col-md-4 px-4">
-                        <i class="fa-solid fa-rug"></i><br />
-                        <a href="#">Yoga Challenge</a>
-                        <p>It va esser tam simplic quam Occidental in fact, it va esser Occidental.</p>
+                            <i className="fa-solid fa-rug"></i><br />
+                            <a href="#">Yoga Challenge</a>
+                            <p>It va esser tam simplic quam Occidental in fact, it va esser Occidental.</p>
                         </div>
                     </div>
                 </div>

@@ -1,0 +1,31 @@
+.inside_container {
+  max-width: 940px;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.class_sec {
+  padding: 40px 0;
+  background-color: #f5f5f5;
+}
+.class_sec .top_bar h2 {
+  color: #7b6cd5;
+}
+.class_sec .main_class .class_card {
+  margin: 20px 0;
+  text-align: center;
+}
+.class_sec .main_class .class_card h5 {
+  margin-top: 12px;
+  font-weight: 600;
+  font-family: monospace;
+}
+.class_sec .main_class .class_card h5:hover {
+  color: #fe86d4;
+  cursor: pointer;
+}
+.class_sec .main_class .class_card img {
+  width: 80%;
+  border-radius: 50%;
+}/*# sourceMappingURL=Classes.css.map */

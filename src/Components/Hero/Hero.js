@@ -10,14 +10,14 @@ function Hero() {
             <div className="banner_row">
                 <div className="row">
                     <div className="col-md-4 banner_top">
-                    <i class="fa-solid fa-envelope text-white me-2"></i>
+                    <i className="fa-solid fa-envelope text-white me-2"></i>
                     <a href="#">infoYoga@gmail.com</a>
                     </div>
                     <div className="col-md-4 banner_top">
                         <img src="img/logo1.png" alt="" />
                     </div>
                     <div className="col-md-4 banner_top">
-                    <i class="fa-solid fa-phone text-white me-1"></i>
+                    <i className="fa-solid fa-phone text-white me-1"></i>
                     <a href="#">+917697684275</a>
                     </div>
                 </div>

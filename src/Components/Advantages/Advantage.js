@@ -12,32 +12,32 @@ function Advantage() {
                     </div>
                     <div className="row adv_detail">
                         <div className="col-md-4">
-                            <i class="fa-solid fa-snowflake"></i><br />
+                            <i className="fa-solid fa-snowflake"></i><br />
                             <a href="#">Mind and Soul</a>
                             <p>A un Angleso semblar un simplificat Angles, quam un skepticbridge.</p>
                         </div>
                         <div className="col-md-4">
-                            <i class="fa-solid fa-snowflake"></i><br />
+                            <i className="fa-solid fa-snowflake"></i><br />
                             <a href="#">Mind and Soul</a>
                             <p>A un Angleso semblar un simplificat Angles, quam un skepticbridge.</p>
                         </div>
                         <div className="col-md-4">
-                            <i class="fa-solid fa-snowflake"></i><br />
+                            <i className="fa-solid fa-snowflake"></i><br />
                             <a href="#">Mind and Soul</a>
                             <p>A un Angleso semblar un simplificat Angles, quam un skepticbridge.</p>
                         </div>
                         <div className="col-md-4">
-                            <i class="fa-solid fa-snowflake"></i><br />
+                            <i className="fa-solid fa-snowflake"></i><br />
                             <a href="#">Mind and Soul</a>
                             <p>A un Angleso semblar un simplificat Angles, quam un skepticbridge.</p>
                         </div>
                         <div className="col-md-4">
-                            <i class="fa-solid fa-snowflake"></i><br />
+                            <i className="fa-solid fa-snowflake"></i><br />
                             <a href="#">Mind and Soul</a>
                             <p>A un Angleso semblar un simplificat Angles, quam un skepticbridge.</p>
                         </div>
                         <div className="col-md-4">
-                            <i class="fa-solid fa-snowflake"></i><br />
+                            <i className="fa-solid fa-snowflake"></i><br />
                             <a href="#">Mind and Soul</a>
                             <p>A un Angleso semblar un simplificat Angles, quam un skepticbridge.</p>
                         </div>
