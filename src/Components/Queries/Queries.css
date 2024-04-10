@@ -1,0 +1,35 @@
+.inside_container {
+  max-width: 940px;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.head-color {
+  color: #7b6cd5;
+}
+
+.query_sec {
+  padding: 40px 0;
+}
+.query_sec .join_btn {
+  background-color: #7b6cd5;
+  padding: 17px 50px;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 35px;
+}
+.query_sec .join_btn:hover {
+  color: #fe86d4;
+}
+.query_sec a {
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+}
+.query_sec a:hover {
+  color: #fe86d4;
+}/*# sourceMappingURL=Queries.css.map */

@@ -26,6 +26,7 @@
   cursor: pointer;
 }
 .class_sec .main_class .class_card img {
-  width: 80%;
+  width: 100%;
+  max-width: 185px;
   border-radius: 50%;
 }/*# sourceMappingURL=Classes.css.map */

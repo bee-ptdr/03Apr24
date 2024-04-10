@@ -1,0 +1,40 @@
+$brand-color : #fe86d4;
+$head-color : #7b6cd5;
+
+
+.inside_container {
+    max-width: 940px;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.head-color {
+    color: $head-color;
+}
+
+.query_sec {
+    padding: 40px 0;
+
+    .join_btn {
+        background-color: #7b6cd5;
+        padding: 17px 50px;
+        border: none;
+        border-radius: 3px;
+        color: white;
+        font-size: 18px;
+        font-weight: 600;
+        margin-top: 35px;
+    }
+    .join_btn:hover{
+        color: $brand-color;
+    }
+    a{
+        text-decoration: none;
+        color: black;
+        font-weight: 600;
+    }
+    a:hover{
+        color: $brand-color;
+    }
+}

@@ -1,0 +1,21 @@
+$brand-color : #fe86d4;
+$head-color : #7b6cd5;
+
+
+.inside_container {
+    max-width: 940px;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.footer_sec{
+    background-color: $head-color ;
+    padding: 40px 0;
+
+    i{
+        margin: 0 10px;
+        color: white;
+    }
+   
+}

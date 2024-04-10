@@ -1,0 +1,35 @@
+.inside_container {
+  max-width: 940px;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.head-color {
+  color: #7b6cd5;
+}
+
+.trainer_sec {
+  padding: 40px 0;
+  background-color: #f5f5f5;
+}
+.trainer_sec .main_bar {
+  text-align: center;
+  margin-top: 60px;
+}
+.trainer_sec .main_bar img {
+  width: 100%;
+  max-width: 185px;
+  border-radius: 50%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.trainer_sec .main_bar h5 {
+  margin-top: 12px;
+  font-weight: 600;
+  font-family: monospace;
+}
+.trainer_sec .main_bar h5:hover {
+  color: #fe86d4;
+  cursor: pointer;
+}/*# sourceMappingURL=Trainer.css.map */

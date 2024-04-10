@@ -1,0 +1,15 @@
+.inside_container {
+  max-width: 940px;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.footer_sec {
+  background-color: #7b6cd5;
+  padding: 40px 0;
+}
+.footer_sec i {
+  margin: 0 10px;
+  color: white;
+}/*# sourceMappingURL=Footer.css.map */

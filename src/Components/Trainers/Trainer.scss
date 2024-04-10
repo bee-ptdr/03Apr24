@@ -1,0 +1,41 @@
+$brand-color : #fe86d4;
+$head-color : #7b6cd5;
+
+
+.inside_container {
+    max-width: 940px;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.head-color {
+    color: $head-color;
+}
+
+.trainer_sec {
+    padding: 40px 0;
+    background-color: #f5f5f5;
+
+    .main_bar {
+        text-align: center;
+        margin-top: 60px;
+
+        img {
+            width: 100%;
+            max-width: 185px;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+
+        h5{
+            margin-top: 12px;
+            font-weight: 600;
+            font-family: monospace;
+        }
+        h5:hover{
+            color: $brand-color;
+            cursor: pointer;
+        }
+    }
+}
