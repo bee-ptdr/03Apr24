@@ -15,7 +15,7 @@ function Classes() {
     <section className='class_sec'>
         <div className="inside_container">
             <div className="top_bar text-center">
-                <h2>Our Yoga Class</h2>
+                <h2>Our Yoga Classes</h2>
                 <p>At solmen li esser necessi uniform grammatica, pronunciation</p>
             </div>
             <div className="main_class">

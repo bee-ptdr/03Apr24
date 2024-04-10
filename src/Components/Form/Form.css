@@ -1,0 +1,51 @@
+.inside_container {
+  max-width: 940px;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.head-color {
+  color: #7b6cd5;
+}
+
+.form_sec {
+  padding: 40px 0;
+}
+.form_sec .main_form {
+  margin-top: 60px;
+}
+.form_sec .main_form .right {
+  border: 1px solid #555;
+  padding: 25px 22px;
+  border-radius: 5px;
+}
+.form_sec .main_form .right input {
+  margin: 4px 0;
+}
+.form_sec .main_form .right input::-moz-placeholder {
+  color: #888;
+}
+.form_sec .main_form .right input::placeholder {
+  color: #888;
+}
+.form_sec .main_form .right input[type=date] {
+  text-transform: uppercase;
+  color: #888;
+}
+.form_sec .main_form .right .appnt-btn {
+  width: 100%;
+  border: none;
+  margin-top: 20px;
+  padding: 15px 0;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0.7px;
+  border-radius: 7PX;
+  background-color: #7b6cd5;
+  color: white;
+}
+.form_sec .main_form .left {
+  margin-top: 40px;
+  line-height: 33px;
+}/*# sourceMappingURL=Form.css.map */
